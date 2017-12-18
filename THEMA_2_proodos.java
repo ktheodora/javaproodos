@@ -29,7 +29,7 @@ public class THEMA_2 extends Applet implements ActionListener, ItemListener {
 		txtEURO = new TextField(20);
 		lblEURO = new Label("EURO");
 		txtPAYMENT = new TextField(20);
-		lblPAYMENT = new Label("P¡’Ã≈Õ‘");
+		lblPAYMENT = new Label("P√Å√ï√å√Ö√ç√î");
 		c1 = new Checkbox("PAYMENT",lngGrp,true);  //circle button
 	    c2 = new Checkbox("INSTALLMENT",lngGrp,true); 
 	    c1.addItemListener(this);
